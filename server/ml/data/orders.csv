@@ -1,0 +1,17 @@
+date,hour,day_of_week,vendor,orders
+2026-09-01,9,1,Campus Pizza Point,5
+2026-09-01,10,1,Campus Pizza Point,8
+2026-09-01,11,1,Campus Pizza Point,15
+2026-09-01,12,1,Campus Pizza Point,32
+2026-09-01,13,1,Campus Pizza Point,45
+2026-09-01,14,1,Campus Pizza Point,28
+2026-09-01,15,1,Campus Pizza Point,12
+2026-09-01,16,1,Campus Pizza Point,7
+2026-09-02,9,2,Campus Pizza Point,6
+2026-09-02,10,2,Campus Pizza Point,10
+2026-09-02,11,2,Campus Pizza Point,18
+2026-09-02,12,2,Campus Pizza Point,35
+2026-09-02,13,2,Campus Pizza Point,48
+2026-09-02,14,2,Campus Pizza Point,30
+2026-09-02,15,2,Campus Pizza Point,14
+2026-09-02,16,2,Campus Pizza Point,8
